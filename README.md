@@ -43,6 +43,25 @@ restarted your pc... Your saved passwords are still there!​
 drive, if someone gets access to it then the JSON file
 with the passwords is also accesible to them!
 
+**How do you use it?**
+
+Simple!​
+
+There are 2 files at cmd\passwordsaver​
+
+PasswordManagerAdd.bat (PMA)​
+
+PasswordManagerRun.bat (PMR)​
+
+PMR shows you the list of the passwords you have
+saved in your JSON so far​
+
+PMA lets you add another password set to the list​
+
+(Creating shortcuts of these files on your desktop is
+highly recommended!)
+
 
 By: MICKIYEZE
+
 For: Gojunior 2025
