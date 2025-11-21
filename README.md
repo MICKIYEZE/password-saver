@@ -42,3 +42,7 @@ restarted your pc... Your saved passwords are still there!​
 *Warning:* The saved passwords are saved on your hard
 drive, if someone gets access to it then the JSON file
 with the passwords is also accesible to them!
+
+
+By: MICKIYEZE
+For: Gojunior 2025
