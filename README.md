@@ -1,6 +1,7 @@
 **Welcome to my passwords saver!**
 
 **The Idea:**
+
 Passwords, are a daily neccesity we all need, eather
 for your phone or you Computer.​
 
@@ -15,6 +16,7 @@ Password manager, Organized, Easy to access.​
 This is where my program comes in!
 
 **What my program does:**
+
 My program takes the passwords you entered and
 saves them in a JSON file for easy access.​
 
@@ -27,6 +29,7 @@ show you the list of passwords without taking you to
 the password adding option
 
 **Features:**
+
 - Passwords are saved in a JSON file (nice and neat)​
 
 - The notes feature, Add additional notes to your saved
