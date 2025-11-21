@@ -3,7 +3,7 @@
 **The Idea:**
 
 Passwords, are a daily neccesity we all need, eather
-for your phone or you Computer.​
+for your phone or your Computer.​
 
 Writing the saved passwords in a book is also not an
 option (in my opinion). The most convenient option (in
