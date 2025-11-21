@@ -10,7 +10,7 @@ import (
 	"password-saver/pkg/entry"
 )
 
-// Display prints all saved entries to stdout.
+// Display prints all saved entries
 func Display(d *db.Database) {
 	entries := d.List()
 	if len(entries) == 0 {
